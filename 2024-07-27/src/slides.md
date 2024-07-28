@@ -49,11 +49,13 @@ transition: fade-out
 
 # Guii.AI 是给谁用的?
 
+产品定位
+
 <v-clicks>
 
 - 前端开发者
 - 独立开发者
-- 初创公司
+- 初创小团队
 
 </v-clicks>
 
@@ -91,6 +93,87 @@ Guii AI DevTools 旨在提高您的生产力
 </SlidevVideo>
 
 ---
+layout: cover
+---
+
+# Guii.AI 的诞生
+
+---
+
+# Neko: 感觉生成式 UI 很有意思
+
+- Apple Intelligence
+- Devv.AI
+
+<v-click>
+
+# Rizumu: 来做一个生成前端代码的平台吧
+
+</v-click>
+
+---
+
+过去的 Guii.AI
+
+<v-click>
+
+# Web Guii.AI
+
+在网站上生成代码
+
+</v-click>
+
+<v-click>
+
+<img src="/guii-web.jpeg" w-full h-340px object-contain />
+
+</v-click>
+
+---
+
+和现在有什么不同？
+
+# DevTools
+
+<v-clicks>
+
+- 🙌 触手可及 - 直接安装在开发环境中无需打开单独的网站
+- 🫧 项目上下文 - 感知项目上下文，生成的代码更贴合项目
+- ✍️ 直接写入文件 - 生成代码直接改到对应文件中，无需复制粘贴
+- 🆕 不止局限于生成新页面 - 项目开发任何阶段随时生成
+
+</v-clicks>
+
+---
+
+Guii.AI
+
+# DevTools 背后的架构
+
+<v-clicks>
+
+- Compiler 编译器 - 注入 source map 源码映射，实现元素查找能力
+- Client - 注入 UI 到开发页面
+- Server - 与 Client 通信，生成代码
+- File System 文件系统 - 调取选中的源码，写入生成后的文件
+
+</v-clicks>
+
+---
+
+我们想
+# 做的更多
+
+<v-clicks>
+
+- 🏗️ 框架无关 - 支持多种框架，Vue、React、Angular、Svelte...
+- 📦 打包器无关 - 支持多种打包器，Webpack、Vite、Rollup...
+- 🖼️ 组件库无关 - 支持多种组件库，Shadcn、Element...
+- 🚀 更多深入前端开发的提效功能
+
+</v-clicks>
+
+---
 
 <div flex flex-col justify-center items-center gap-5>
   <div flex items-center gap-4>
@@ -106,5 +189,3 @@ Guii AI DevTools 旨在提高您的生产力
     </div>
   </div>
 </div>
-
----

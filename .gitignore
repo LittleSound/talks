@@ -7,3 +7,6 @@ dist
 components.d.ts
 *.log
 *-export*
+
+# Local Netlify folder
+.netlify
