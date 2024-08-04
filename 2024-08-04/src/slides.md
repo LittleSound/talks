@@ -295,18 +295,24 @@ Guii.AI
 </v-clicks>
 
 ---
+layout: cover
+---
 
-<div flex flex-col justify-center items-center gap-5>
+# 谢谢！
+
+幻灯片可在 [GitHub.com/LittleSound/talks](https://github.com/LittleSound/talks) 查看
+
+<div mt-10 flex flex-col justify-center items-center gap-5 text-left>
   <div flex items-center gap-4>
-    <img src="/logo-guii.png" class="size-25" alt="Guii" />
+    <img src="/logo-guii.png" class="size-30" alt="Guii" />
     <div space-y-3>
-      <h3 class="!text-xl"><span bg-blue-3 text-black p-1 px-2>与 Guii 一起写前端</span></h3>
+      <h3 class="!text-xl"><span rounded-xl bg-blue-3 text-black p-1 px-4>与 Guii 一起写前端</span></h3>
       <h1 text-white class="!text-white">加群了解更多信息！</h1>
     </div>
   </div>
-  <div flex justify-center items-center>
-    <div bg-white rounded-t-2xl>
-      <img h-400px object-cover src="/qrc.png" />
+  <div flex flex-col justify-start items-center h-screen>
+    <div bg-white rounded-t-2xl h-400px>
+      <img h-230px object-cover src="/qrc.png" />
     </div>
   </div>
 </div>
