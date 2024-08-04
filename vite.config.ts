@@ -32,6 +32,11 @@ export default defineConfig({
             'Netlify': { link: 'https://netlify.com', imageUrl: 'https://github.com/netlify.png' },
             'Stackblitz': { link: 'https://stackblitz.com', imageUrl: 'https://github.com/stackblitz.png' },
             'Vercel': { link: 'https://vercel.com', imageUrl: 'https://github.com/vercel.png' },
+            'Nolebase': { link: 'https://github.com/nolebase/nolebase', imageUrl: 'https://nolebase.ayaka.io/logo.svg' },
+            'InterlineTranslate': 'https://github.com/LittleSound/interline-translate',
+            'SlimeForm': 'https://github.com/LittleSound/slimeform',
+            'xUse': 'https://github.com/x-use',
+            'Guii.AI': 'https://Guii.ai',
           },
         })
       },

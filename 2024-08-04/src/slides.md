@@ -1,5 +1,42 @@
 ---
+layout: intro
 theme: seriph
+background: /demo.png
+transition: fade
+---
+
+# Rizumu｜绚香音
+
+<div class="[&>*]:important-leading-10 opacity-80">
+
+{Vue} {Elk} 团队成员<br>
+{Nolebase} {InterlineTranslate} {SlimeForm} {xUse} 作者<br>
+自由职业，正在创造 {Guii.AI}<br>
+
+</div>
+
+<div my-10 w-min flex="~ gap-1" items-center justify-center>
+  <div i-ri-github-line op50 ma text-xl ml4/>
+  <div><a href="https://github.com/LittleSound" target="_blank" class="border-none! font-300">LittleSound</a></div>
+  <div i-ri-twitter-x-line op50 ma text-xl ml4/>
+  <div><a href="https://x.com/OikawaRizumu" target="_blank" class="border-none! font-300">OikawaRizumu</a></div>
+</div>
+
+<img src="https://github.com/LittleSound.png" rounded-full w-40 abs-tr mt-16 mr-12/>
+
+<div flex="~ gap2">
+
+</div>
+
+<!--
+大家好。
+
+我是小音，也叫 Rizumu 或 LittleSound。
+
+我是一名热爱开源的独立开发者，同时也是 Vue Team 的成员。Vue 是当前拥有 200 万周活跃用户的前端框架。
+-->
+
+---
 layout: intro
 background: /demo.png
 transition: fade
@@ -32,6 +69,10 @@ transition: slide-left
   </div>
 </div>
 
+<!--
+通过这次机会，我想向大家介绍一下我正在开发的项目：Guii.AI DevTools
+ -->
+
 ---
 layout: cover
 transition: fade-out
@@ -47,9 +88,7 @@ transition: fade-out
 
 ---
 
-# Guii.AI 是给谁用的?
-
-产品定位
+# Guii.AI 的产品定位
 
 <v-clicks>
 
@@ -60,16 +99,92 @@ transition: fade-out
 </v-clicks>
 
 ---
+
+他们的的现状
+
+# 程序员在编写代码时越来越多地使用 AI
+
+<div my-7 grid grid-cols-2 gap-4>
+  <Product
+    name="GitHub Copilot"
+    intro="GitHub推出的AI编程工具"
+    src="/github-copilot.png"
+  />
+
+  <Product
+    name="Fig"
+    intro="AI 终端命令自动补全"
+    src="/fig.png"
+  />
+
+  还有很多...
+</div>
+
+<v-click>
+
+# 前端的 AI 工具
+
+效果并不理想
+
+<div mt-7 grid grid-cols-2 gap-4>
+  <Product
+    name="v0.dev"
+    intro="Al 生成前端 React UI 组件，由 Vercel 推出"
+    src="/v0-dev.png"
+  />
+
+  <Product
+    name="ancodeai"
+    intro="UI 组件生成"
+    src="/ancodeai.png"
+  />
+</div>
+
+</v-click>
+
+<!--
+
+1. 程序员在编写代码时越来越多地使用 AI，但在 Web 前端开发中，常规的 AI Copilot 工具效果并不理想。
+
+2. click
+
+3. 尽管市场上已有一些针对前端的 AI 工具，但它们存在各种问题。比如 v0.dev 在它的网站平台上提供代码生成服务，尽管很多人在使用，但是生成的代码一旦交付到用户的项目中，就无法在由 v0 平台上进行二次修改了。
+
+-->
+
+---
+
+# Nuxt DevTools
+
+<img src="/nuxt-devtools.jpg" />
+
+<!--
+
+前端开发工具本身也在发展中。
+
+比如 Vuejs 生态有类似 Nuxt DevTools 这样的产品，它探索了前端开发者体验的新方向，直接在开发者正在开发中的项目上依据项目技术栈和已有代码上下文提供开发者工具。
+
+但是它并没有融入生成式 AI Copilot 的能力。
+
+-->
+
+---
 layout: cover
 ---
 
-😣 痛点是什么？
+😣 问题是什么？
 
 <v-click>
 
 # ⏰ 写前端真的很花时间！
 
 </v-click>
+
+<!--
+
+在我们了解了这些信息之后，Guii 尝试解决的问题是什么？
+
+-->
 
 ---
 layout: cover
@@ -85,6 +200,12 @@ Guii AI DevTools 旨在提高您的生产力
   ×10
   </span>
 </h1>
+
+<!--
+
+我正在开发的 Guii.AI 通过直接在项目中提供 AI 前端开发者工具的形式，并结合 AI 对项目技术栈和已有代码的感知，提供针对前端场景优化的工具，更智能、更深入地帮助开发者编写代码。这与市面上现有的前端 AI 工具有很大不同。
+
+-->
 
 ---
 
