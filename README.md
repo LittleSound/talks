@@ -6,6 +6,7 @@ Slides & code for my talks, using [Slidev](https://github.com/slidevjs/slidev)!
 
 ###### 2024
 
+- `zh` [聚一聚活动](./2024-11-30) - Demo Inn Thanksgiving Shanghai
  - `zh` [Hello, Guii.AI DevTools](./2024-08-04) - Bolt Demo Day
  - `zh` [Guii.ai 前端结对编程开发经验分享](./2024-07-27) - Kimi 开放平台 Office Hour
  - `zh` [Hello, Guii.AI DevTools](./2024-07-27) - Demo Inn Shanghai
