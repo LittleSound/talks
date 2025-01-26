@@ -18,6 +18,7 @@ export default defineConfig({
             'Vue': 'https://github.com/vuejs/core',
             'Nuxt': 'https://github.com/nuxt/nuxt',
             'Vite': 'https://github.com/vitejs/vite',
+            'Vapor': 'https://github.com/vuejs/core',
             'Shiki': 'https://github.com/shikijs/shiki',
             'Twoslash': 'https://github.com/twoslashes/twoslash',
             'ESLint Stylistic': 'https://github.com/eslint-stylistic/eslint-stylistic',
