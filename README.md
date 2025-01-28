@@ -1,4 +1,4 @@
-# Talks of Rizumu Ayaka <sup>(or 小音 Little Sound)</sup>
+<h1 id="readme">Talks of Rizumu Ayaka <sup>(or 小音 Little Sound)</sup></h1>
 
 Slides & code for my talks, using [Slidev](https://github.com/slidevjs/slidev)!
 
