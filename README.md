@@ -2,7 +2,25 @@
 
 Slides & code for my talks, using [Slidev](https://github.com/slidevjs/slidev)!
 
+If you're organizing a frontend-related conference or meetup, I'd love to give a talk! You can contact me via [rizumu@ayaka.moe](mailto:rizumu@ayaka.moe) or [X](https://x.com/OikawaRizumu) direct message.
+
 ## Catalogue
+
+### Topics
+
+#### [Join Us Building Vue's High-Performance Future: Vapor Mode](./2025-01-30)
+
+Discover Vue Vapor, understand it, catch up latest progress, and learn how to contribute.
+
+#### [聚一聚活动](./2024-11-30)
+
+A gathering event for developers to share their experience and insights.
+
+#### [Hello, Guii.AI DevTools](./2024-08-04)
+
+Introduce Guii.AI DevTools, a new tool for developers to build AI-powered applications.
+
+### Schedule
 
 ###### 2025
 
