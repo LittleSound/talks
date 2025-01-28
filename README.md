@@ -4,6 +4,11 @@ Slides & code for my talks, using [Slidev](https://github.com/slidevjs/slidev)!
 
 ## Catalogue
 
+###### 2025
+
+- `en` [Join Us Building Vue's High-Performance Future: Vapor Mode](./2025-01-30) - Vue Nation 2025
+- `en` [Join Us Building Vue's High-Performance Future: Vapor Mode](./2025-01-18) - Demo Inn Shanghai
+
 ###### 2024
 
 - `zh` [加入我们构建 Vue 高性能未来: Vapor Mode](./2024-12-28) - Demo Inn Christmas 2024
