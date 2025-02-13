@@ -6,4 +6,4 @@ Discover Vue Vapor, understand its principles, explore our latest progress, and 
 
 ---
 
-Slides: [View in Web](https://2025-01-30-rizumu-talks.netlify.app/) | [Download PDF](https://drive.google.com/file/d/1tefm6aGE7UXrO7E0hvZ5wVmSN4duDal3/view?usp=sharing) | [Source Code](./src/slides.md)
+Slides: [Watch the Talk](https://www.youtube.com/embed/hEk1sPA0lqU) | [View in Web](https://2025-01-30-rizumu-talks.netlify.app/) | [Download PDF](https://drive.google.com/file/d/1tefm6aGE7UXrO7E0hvZ5wVmSN4duDal3/view?usp=sharing) | [Source Code](./src/slides.md)
