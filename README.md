@@ -24,6 +24,7 @@ Introduce Guii.AI DevTools, a new tool for developers to build AI-powered applic
 
 ###### 2025
 
+- `zh` [Vapor 和我的开源之旅](./2025-07-12) - VueConf 25 深圳
 - `en` [Join Us Building Vue's High-Performance Future: Vapor Mode](./2025-01-30) - Vue Nation 2025
 - `en` [Join Us Building Vue's High-Performance Future: Vapor Mode](./2025-01-18) - Demo Inn Shanghai
 
