@@ -2,9 +2,9 @@
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 # some information about your slides (markdown enabled)
-title: 我的开源之旅
+title: Vapor 和我的开源之旅
 info: |
-  探索 Vue Vapor，了解它，跟上最新进展，学习如何贡献。
+  从 Vue Vapor 贡献者的视角，分享参与 Vue 开源项目的经历与感悟
   Author: Rizumu Ayaka (@LittleSound)
 # apply unocss classes to the current slide
 class: text-center
@@ -32,6 +32,12 @@ css: unocss
 <span bg-black:10 rounded px1 op75>
 VueConf 深圳 2025
 </span>
+
+<div fixed bottom-10 right-10 flex justify-center text-sm op75>
+
+Create your own slides like this: [<div i-ri:github-fill inline-block /> littlesound/talks-template](https://github.com/LittleSound/talks-template)
+
+</div>
 
 <!--
 很高兴今天能在这里和大家做这个关于 Vapor 的分享。
@@ -264,7 +270,7 @@ container.addEventListener('click', (e) => {
 
 [click] 还有一个例子是"事件代理"
 
-[click] 聚个例子。不好的做法是我有一个列表，列表有一万行。那我每个条目都要有一个删除操作。那我就挂一万个事件。这样会非常慢。
+[click] 举个例子。不好的做法是我有一个列表，列表有一万行。那我每个条目都要有一个删除操作。那我就挂一万个事件。这样会非常慢。
 
 [click] 更好的做法是我在这个列表顶层的元素上挂一个事件，然后我去看触发这个事件的是哪个元素，然后去处理它。这样我就只要挂一个事件，所以这样也会更快。
 
@@ -286,7 +292,7 @@ clicks: 2
   }"
 >
   <div>
-    Advance<br>
+    Advanced<br>
     Optimization
   </div>
   <div>
@@ -692,7 +698,7 @@ class: text-center
 
 如果你坚持做，你会对这个过程越来越熟练。
 
-并且到这时，项目的其他贡献者和主要的维护者会熟悉你的存在。如果维护者决定添加一个简单的新功能，你会有把握说:
+并且到这时，项目的其他贡献者和主要的维护者会熟悉你的存在。如果维护者决定添加一个简单的新功能，你会有把握地说:
 
 [click] "我想尝试一下实现这个"，还是那句话："不要担心犯错或失败"。到了这个阶段，你已经开始参与新功能的开发了。
 
@@ -751,7 +757,7 @@ class: text-center
 </div>
 
 <!--
-接下来。让我们来看看这样的架构给 Vue Vapor 带了什么样的成果。
+接下来。让我们来看看这样的架构给 Vue Vapor 带来了什么样的成果。
 -->
 
 ---
@@ -858,7 +864,7 @@ clicks: 2
 <!--
 所以... 今天,我们一起 [click] 发明了 Vapor。[click] 然后介绍了它的性能，它的架构，它的路线图，[click] 以及感谢了贡献者们，还听了我的开源故事。
 
-以上就是这个演讲的全部啦。[click] 我为这次演讲练习许多遍...
+以上就是这个演讲的全部啦。[click] 我为这次演讲练习了很多遍...
 
 -->
 
@@ -880,7 +886,7 @@ clicks: 2
 **Thank you, [Kevin Deng](https://github.com/sxzz) and [Anthony Fu](https://github.com/antfu).**
 
 <!--
-我为这次演讲练习许多遍，查了很多资料。
+我为这次演讲练习了很多遍，查了很多资料。
 
 所以… [click] 希望你会喜欢，也希望你能从中得到一些启发。
 
@@ -896,9 +902,9 @@ class: 'text-center pb-5'
 
 <div op75>
 
-**Slides can be found at [github.com/LittleSound/talks](https://github.com/LittleSound/talks)**
+**Slides can be found at [<div i-ri:github-fill inline-block /> LittleSound/talks](https://github.com/LittleSound/talks)**
 
-Slides build with [Slidev](https://sli.dev)
+Slides template at [<div i-ri:github-fill inline-block /> littlesound/talks-template](https://github.com/LittleSound/talks-template)
 
 </div>
 
