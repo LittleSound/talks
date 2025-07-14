@@ -1,6 +1,6 @@
 <h1 id="readme">Talks of Rizumu Ayaka <sup>(or 小音 Little Sound)</sup></h1>
 
-Slides & code for my talks, using [Slidev](https://github.com/slidevjs/slidev)!
+Slides & code for my talks, using [littlesound/talks-template](https://github.com/LittleSound/talks-template)
 
 If you're organizing a frontend-related conference or meetup, I'd love to give a talk! You can contact me via [rizumu@ayaka.moe](mailto:rizumu@ayaka.moe) or [X](https://x.com/OikawaRizumu) direct message.
 
