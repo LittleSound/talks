@@ -9,4 +9,4 @@
 <!-- TODO: add video link -->
 <!-- TODO: update the pdf file -->
 
-<span style="color:gray;text-decoration:line-through;">Watch the Talk Video</span> (Coming soon) | [View the Slide](https://rizumu-slides-2025-07-12.netlify.app) | [Download PDF](https://drive.google.com/file/d/1BHI68cjm41MLvn9mzMJd4J6mqhm6_QDH/view?usp=sharing) | [Source Code](./src/slides.md)
+[Watch the Talk Video](https://www.bilibili.com/video/BV119gbzNE2o) | [View the Slide](https://rizumu-slides-2025-07-12.netlify.app) | [Download PDF](https://drive.google.com/file/d/1BHI68cjm41MLvn9mzMJd4J6mqhm6_QDH/view?usp=sharing) | [Source Code](./src/slides.md)
